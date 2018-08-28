@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QtHelpProject version="1.0">
+    <namespace>com.tti</namespace>
+    <virtualFolder>TTI</virtualFolder>
+    <customFilter name="Total Test Integrator">
+        <filterAttribute>Total Test Integrator</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>Total Test Integrator</filterAttribute>
+		<toc>
+			<section title="About Total Test Integrator">
+				<section title="What is Total Test Integrator" ref="about-tti/what-is-total-test-integrator.html" />
+				<section title="Console version of Total Test Integrator" ref="about-tti/console-total-test-integrator.html" />
+				<section title="Acknowledgments" ref="about-tti/acknowledgments.html" />
+            </section>
+			<section title="Quick start for novices">
+				<section title="Create test-case" ref="quick-start-for-novices/create-test-case.html" />
+				<section title="Create test-plan" ref="quick-start-for-novices/create-test-plan.html" />
+			</section>
+		</toc>
+        <keywords>
+            <keyword name="acknowledgments" id="integrator" ref="about-tti/acknowledgments.html"/>
+            <keyword name="integrator" id="integrator" ref="about-tti/what-is-total-test-integrator.html"/>
+            <keyword name="console" id="integrator" ref="about-tti/console-total-test-integrator.html"/>
+            <keyword name="test-case" id="create-test-case" ref="quick-start-for-novices/create-test-case.html"/>
+            <keyword name="test-plan" id="create-test-plan" ref="quick-start-for-novices/create-test-plan.html"/>
+        </keywords>
+        <files>
+            <file>about-tti/*.html</file>
+            <file>quick-start-for-novices/*.html</file>
+            <file>quick-start-for-novices/images/*.png</file>
+            <file>quick-start-for-novices/images/*.html</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
